@@ -915,9 +915,9 @@
                         @endif
                     @endauth
                 </div>
-                {{-- @endif     --}}
+                @endif    
 
-            
+
         </div>
     </section>
 
