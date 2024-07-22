@@ -837,7 +837,7 @@
         }
     </style>
 </head>
-
+{{-- //TODO: HOme screen --}}
 <body class="h-screen flex flex-col">
     {{-- header --}}
     <nav class="h-16 flex justify-center items-center">
@@ -915,7 +915,7 @@
                         @endif
                     @endauth
                 </div>
-                @endif    
+   
 
 
         </div>
