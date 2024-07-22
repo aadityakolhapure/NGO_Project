@@ -18,6 +18,7 @@
         <div class="">
             <span class="font-medium">Welcome!</span> {{ Auth::user()->name }}
         </div>
+        @livewire('admin.details')
     </div>
 
 </x-app-layout>
